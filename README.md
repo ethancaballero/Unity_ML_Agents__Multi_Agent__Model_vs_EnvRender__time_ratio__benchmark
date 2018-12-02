@@ -1,4 +1,4 @@
-# Unity ML-Agents Multi-Agent Time Balance (between model & environment) Benchmark
+# Unity ML-Agents Multi-Agent Time Ratio (between model & environment) Benchmark
 
 This benchmarks the ratio of time spent running a given multi-agent Unity environment vs time spent running the forward and/or backwards_update passes of all the rl agent models that act in a given multi-agent Unity environment.
 This repo provides project files for building/editing multiple different multi-agent Unity environment, and it also provides code for benchmarking the ratio of time spent. 
