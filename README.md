@@ -1,8 +1,8 @@
-# Unity ML-Agents Multi-Agent Time Balance (between model & environment)
+# Unity ML-Agents Multi-Agent Time Balance (between model & environment) Benchmark
 
 Current Unity environments were compiled/built to run on Mac only.
-All the compiled environments are in folder `ml-agents-0.3.0b/python`.
-Files for modifying the environments are in the folder `ml-agents-0.3.0b/unity-environment/Assets/ML-Agents/Examples/Comm`; reopening files in this folder via Unity Editor and building them for Linux or Windows will be necessary if you want to run them on Linux or Windows.
+All the compiled environments are in folder `./python`.
+Files for modifying the environments are in the folder `./unity-environment/Assets/ML-Agents/Examples/Comm`; reopening files in this folder via Unity Editor and building them for Linux or Windows will be necessary if you want to run them on Linux or Windows.
 
 to get runtime stats for a specific num_of_agents, run while in folder `ml-agents-0.3.0b/python`:
 ```
