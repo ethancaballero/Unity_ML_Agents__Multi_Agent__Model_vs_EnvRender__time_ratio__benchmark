@@ -34,4 +34,5 @@ All the current results are in folder `./multi-agent_time_balance_results_laptop
 
 # Versions used
 tensorflow_version=='1.6.0-rc1' cpu float32
+
 unity_version==Unity_2017.3.1f1_Personal_64_bit
