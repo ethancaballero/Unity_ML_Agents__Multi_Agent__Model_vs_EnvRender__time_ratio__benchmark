@@ -32,6 +32,9 @@ NameError: name 'end' is not defined
 
 All the current results are in folder `./multi-agent_time_balance_results_laptop`, with an additional README.md in that folder explaining the results
 
+# Picture of a 1024 agent Unity Environments this repo provides
+![1024 agent Unity Environment](multi-agent_time_balance_results_laptop/1024_agents_with_cubicle_for_each.png)
+
 # Versions used
 tensorflow_version=='1.6.0-rc1' cpu float32
 
